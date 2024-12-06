@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="750mm"
+   viewBox="0 0 500 750"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mercury.svg"
+   inkscape:export-filename="C:\Users\scien\Desktop\mercury.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#2c363fff"
+     inkscape:zoom="0.28469167"
+     inkscape:cx="943.1256"
+     inkscape:cy="1136.3171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient7">
+      <stop
+         style="stop-color:#d6dbd2;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#e75a7c;stop-opacity:1;"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient7"
+       id="linearGradient8"
+       x1="250.00005"
+       y1="550.00018"
+       x2="250.00005"
+       y2="199.99995"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       id="path4-5"
+       style="mix-blend-mode:normal;fill:none;stroke:url(#linearGradient8);stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 315,165.00027 A 100,100 0 0 0 385.71068,135.71095 100,100 0 0 0 415,65.000272 M 400,300.00027 a 150,150 0 0 1 -150,150 150,150 0 0 1 -150,-150 150,150 0 0 1 150,-150 150,150 0 0 1 150,150 z m -215,-135 A 100,100 0 0 1 114.28932,135.71095 100,100 0 0 1 85,65.000272 M 159.85954,580.00012 H 340.14046 Z M 250.0002,454.86004 v 230.28011 z" />
+  </g>
+</svg>
