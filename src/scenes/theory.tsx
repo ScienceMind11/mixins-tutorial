@@ -18,6 +18,7 @@ export default makeScene2D(function* (view) {
     const white = new Color("#F2F5EA")
     const grey = new Color("#D6DBD2")
     const red = new Color("#E75A7C")
+    const blue = new Color("#508CA4")
 
     var y = 0
 
